@@ -6,4 +6,4 @@
 
 ------------------
 
-![FOTO_GIRI_1_OK](https://user-images.githubusercontent.com/44721619/192132872-3fe9a887-7324-47f4-ba66-ebd986894f51.jpg)
+![44721619](https://user-images.githubusercontent.com/44721619/192132912-48cc4f8a-ad29-4259-8f4b-5ad490071928.png)
