@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Giridiwa319
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello 👋
+# Welcome To My Repositories
+-----------------
+# _My Bio_
+"Seorang penggemar dunia IT Yang masih terus belajar dan berkembang ke arah yang lebih baik lagi"
 
-<!---
-Giridiwa319/Giridiwa319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+------------------
+
+![FOTO_GIRI_1_OK](https://user-images.githubusercontent.com/44721619/192132872-3fe9a887-7324-47f4-ba66-ebd986894f51.jpg)
