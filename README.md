@@ -18,4 +18,4 @@ Hello Perkenalkan Semuanya,Perkenalkan Saya **Giri Diwa Adam**  👋
 <li><a href="https://www.facebook.com/giri.diwa.1/">Facebook</a></li>
 
 # Contact
-<li><a href="giridiwa97@gmail.com">Giri Diwa Adam</li>
+<li>Email : giriadam67@gmail.com </li>
