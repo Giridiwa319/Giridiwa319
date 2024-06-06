@@ -1,6 +1,6 @@
 ![image](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/2d482b6d-7530-4861-b7d6-875610c4d977)
 <br/>
-Hello Perkenalkan Semuanya,Perkenalkan Saya **Giri Diwa Adam**  👋
+Hello Semuanya,Perkenalkan Saya **Giri Diwa Adam**  👋
 <br>
 <br>Selamat Datang Di Repositories Ku
 <br>
