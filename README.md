@@ -2,7 +2,7 @@
 <br/>
 Hello Perkenalkan Semuanya,Perkenalkan Saya **Giri Diwa Adam**  👋
 <br>
-<br>Selamat Datang Di Repositiories Ku
+<br>Selamat Datang Di Repositories Ku
 <br>
 <br>**Belajar, Konsisten, Berusaha, Jangan Malu Bertanya, Kreativ Berfikir, Suka Tantangan dan Jangan Sungkan Membantu sesama.**
 # Top Skills 
