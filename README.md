@@ -1,22 +1,59 @@
-![image](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/2d482b6d-7530-4861-b7d6-875610c4d977)
-<br/>
-Hello Semuanya,Perkenalkan Saya **Giri Diwa Adam**  👋
-<br>
-<br>Selamat Datang Di Repositories Ku
-<br>
-<br>**Belajar, Konsisten, Berusaha, Jangan Malu Bertanya, Kreativ Berfikir, Suka Tantangan dan Jangan Sungkan Membantu sesama.**
-# Top Skills 
-![brand-html5](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/292f6943-64ac-4e6c-a3a2-4490b125f9bf) ![brand-css3 (1)](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/3e3e89e9-19b7-4c31-8284-9f88aab5af18) ![brand-react](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/6fe5d5d0-2aaf-490c-8458-d4c6a96d8b6b) ![brand-vue](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/b30d012a-7e25-4adf-b45a-f7478a6a0a34) ![brand-nextjs](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/333fb50b-5dcb-426d-b9e5-635213ff696d) ![brand-tailwind](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/89ed19c5-bf08-4085-8549-beb91ae5a830) ![brand-headlessui](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/f600830b-89f6-44ed-bce3-f1ba9d1bfde5)
-![brand-laravel](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/cb2163e0-6820-4855-a6ed-566bbd28fac9) ![icons8-express-js-24](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/2f1cee4e-61d4-40af-b06b-6fae608a6657) ![brand-figma](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/a2bec434-9a6e-4164-8038-3802d9a44f98) ![brand-mysql](https://github.com/Giridiwa319/Giridiwa319/assets/44721619/e041f9c4-471b-40cd-b57c-bcb170b08cd6)
+<p align="left">Hallo Perkenalkan Saya, Giri Diwa Adam</p>
 
-# Projects
-<li><a href="https://inspector-app.xyz">Inspector</a></li>
-<li><a href="https://siswasnaker.adhyamitra.com">Siswasnaker</a></li>
+###
 
-# Social Media
-<li><a href="https://instagram.com/giri_diwa">Instagram</a></li>
-<li><a href="https://x.com/giri_diwa">Twitter</a></li>
-<li><a href="https://www.facebook.com/giri.diwa.1/">Facebook</a></li>
+<p align="left">About :  <br>Halo semuanya, Perkenalkan nama saya Giri Diwa Adam, saya adalah seorang Fullstack Web developer yang berasal dari Kota Tangerang, Banten, tepatnya di Desa Larangan Utara. Awal mula saya menyukai dunia programming adalah ketika saya duduk di bangku sekolah kejuruan, tanpa sengaja saya menemukan sebuah buku tentang programming, disitulah saya mulai tertarik dengan dunia programming.<br><br>Dan akhirnya saya melanjutkan kuliah di Jurusan IT, dan saya pun semakin tertarik untuk mendalami dunia pemrograman. Untuk melanjutkan rasa penasaran saya terhadap dunia pemrograman, saya pun mengambil les bahasa pemrograman untuk memperdalam bahasa pemrograman yang sedang saya pelajari.<br><br>Melalui portofolio ini saya ingin menunjukkan hasil-hasil project yang saya kerjakan sebagai fullstack programmer, semoga dapat menginspirasi teman-teman yang ingin menjadi programmer juga. dan jangan menyerah, teruslah belajar sampai bisa, karena dalam dunia programming tidak ada kata menunggu, mereka akan terus berkembang mengikuti perkembangan jaman.</p>
 
-# Contact
-<li>Email : giriadam67@gmail.com </li>
+###
+
+<p align="left">Tech Stack Favorit</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giridiwa319&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Giridiwa319&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/giri.diwa.1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/giri_diwa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/giri-diwa-adam/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/giri_diwa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
+  </a>
+</div>
+
+###
